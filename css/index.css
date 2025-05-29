@@ -99,15 +99,17 @@ main {
     .container_countdown {
         border: 2px solid white;
         border-radius: 8px;
-        padding: 8px;
+        align-items: center;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        width: 240px;
+        height: 55px;
         margin-bottom: 16px;
 
         .countdown {
             text-align: center;
-            margin: 5px 13px 5px 13px;
+            margin: 5px 15px 5px 15px;
 
             .text {
                 font-weight: bold;
@@ -265,15 +267,17 @@ main {
     .container_countdown {
         border: 2px solid white;
         border-radius: 8px;
-        padding: 8px;
+        align-items: center;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        width: 240px;
+        height: 55px;
         margin-bottom: 16px;
 
         .countdown {
             text-align: center;
-            margin: 5px 13px 5px 13px;
+            margin: 5px 15px 5px 15px;
 
             .text {
                 font-weight: bold;
