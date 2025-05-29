@@ -278,7 +278,7 @@ main {
 
         .countdown {
             text-align: center;
-            margin: 2 8px 0 8px;
+            margin: 0 8px 0 8px;
 
             .text {
                 font-weight: bold;
