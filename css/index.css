@@ -6,6 +6,7 @@
 
 body {
     background-color: #151515;
+    overflow: hidden;
     z-index: 1;
 }
 
@@ -173,7 +174,6 @@ main {
 body {
     background-color: #151515;
     z-index: 1;
-
 }
 
 main {
