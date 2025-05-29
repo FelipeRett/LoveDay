@@ -173,8 +173,6 @@ main {
 
 body {
     background-color: #151515;
-    overflow: visible;
-    z-index: 1;
 }
 
 main {
@@ -222,7 +220,7 @@ main {
 }
 
 .card_body {
-    height: 800px;
+    height: 100%;
     width: 750px;
     display: flex;
     flex-direction: column;
