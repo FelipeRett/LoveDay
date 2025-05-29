@@ -270,7 +270,7 @@ main {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        width: 240px;
+        width: 220px;
         height: 55px;
         margin-bottom: 16px;
         margin-left: auto;
@@ -278,7 +278,7 @@ main {
 
         .countdown {
             text-align: center;
-            margin: 5px 10px 5px 10px;
+            margin: 10px 10px 5px 10px;
 
             .text {
                 font-weight: bold;
