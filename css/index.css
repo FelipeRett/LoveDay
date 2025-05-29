@@ -173,6 +173,7 @@ main {
 
 body {
     background-color: #151515;
+    overflow: visible;
     z-index: 1;
 }
 
