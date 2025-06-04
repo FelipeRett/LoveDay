@@ -62,14 +62,29 @@ main {
     align-items: center;
 }
 
+.polaroide {
+    width: 270px;
+    height: 365px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    align-items: center;
+    margin-bottom: 18px;
+    p {
+        color: black;
+        margin: auto;
+        text-align: center;
+        
+        
+    }
+
+}
+
 .carrosel {
     overflow: hidden;
-    width: 230px;
-    height: 400px;
-    border-radius: 12px;
-   
-    box-shadow: -1px -1px 25px 0 #444444, 1px 1px 10px 0 #ffffffd4;
-    margin-bottom: 8px;
+    width: 270px;
+    height: 300px;  
     display: inline-flex;
 }
 
@@ -80,9 +95,8 @@ main {
     
     img {
         object-fit: cover;
-        width:230px;
-        height:400px;
-        border-radius: 12px;
+        width:270px;
+        height:300px;
     }
 }
 
