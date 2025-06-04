@@ -66,27 +66,22 @@ main {
 
 .polaroide {
     width: 270px;
-    height: 360px;
+    height: 370px;
     background-color: white;
     display: flex;
     flex-direction: column;
     padding: 12px;
     align-items: center;
-    margin-bottom: 18px;
+    margin-bottom: 12px;
 
     p {
         color: black;
         margin: auto;
         text-align: center;
         font-family: "Great Vibes", cursive;
-        font-size: 26px;
-        font-weight: 400;
-       
-   
-        
-        
+        font-size: 26px; 
+        text-shadow:10px 8px 5px rgb(129, 129, 129);       
     }
-
 }
 
 .carrosel {
@@ -94,6 +89,7 @@ main {
     width: 270px;
     height: 300px;  
     display: inline-flex;
+    box-shadow: 5px 5px 30px rgb(0, 0, 0);
 }
 
 .container_carrosel {
@@ -105,6 +101,7 @@ main {
         object-fit: cover;
         width:270px;
         height:300px;
+        
     }
 }
 
