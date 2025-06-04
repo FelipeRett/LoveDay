@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&family=Great+Vibes&family=Imperial+Script&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -64,17 +66,23 @@ main {
 
 .polaroide {
     width: 270px;
-    height: 365px;
+    height: 360px;
     background-color: white;
     display: flex;
     flex-direction: column;
     padding: 12px;
     align-items: center;
     margin-bottom: 18px;
+
     p {
         color: black;
         margin: auto;
         text-align: center;
+        font-family: "Great Vibes", cursive;
+        font-size: 26px;
+        font-weight: 400;
+       
+   
         
         
     }
