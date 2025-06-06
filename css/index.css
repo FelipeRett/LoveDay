@@ -253,7 +253,7 @@ main {
 
 .polaroide {
     width: 250px;
-    height: 350px;
+    height: 340px;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -266,7 +266,7 @@ main {
         margin: auto;
         text-align: center;
         font-family: "Great Vibes", cursive;
-        font-size: 26px; 
+        font-size: 22px; 
         text-shadow:4px 8px 5px #cbcbcb;      
         -webkit-text-stroke: 0.3px #000000; 
     }
