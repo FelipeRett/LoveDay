@@ -295,7 +295,7 @@ main {
 .card_info {
     justify-items: center;
     text-align: center;
-    margin: 0 10px 0 10px;
+    margin: 0 15px 0 15px;
 
     h1 {
         font-size: 23px;
@@ -333,7 +333,7 @@ main {
 
     .h_1 {
         border-color: white;
-        width: 80%;
+        width: 90%;
         margin: 15px 0 10px 0;
         margin-left: auto;
         margin-right: auto;
@@ -358,8 +358,8 @@ main {
 
     .h_2 {
         border-color: rgb(255, 255, 255);
-        width: 65%;
-        margin: 10px auto 30px auto;
+        width: 75%;
+        margin: 15px auto 30px auto;
         border-radius: 5px;
     }
 }
