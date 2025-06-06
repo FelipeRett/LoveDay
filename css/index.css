@@ -278,7 +278,6 @@ main {
     height: 280px;  
     display: inline-flex;
     box-shadow: 7px 7px 16px #aaaaaa, -1px -1px 12px #aaaaaa;
-    border-radius: 2px;
 }
 
 .container_carrosel {
