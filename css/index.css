@@ -267,7 +267,7 @@ main {
         text-align: center;
         font-family: "Great Vibes", cursive;
         font-size: 26px; 
-        text-shadow:4px 8px 5px #9d9d9d;      
+        text-shadow:4px 8px 5px #cbcbcb;      
         -webkit-text-stroke: 0.3px #000000; 
     }
 }
@@ -277,7 +277,7 @@ main {
     width: 270px;
     height: 300px;  
     display: inline-flex;
-    box-shadow: 7px 7px 16px #9d9d9d, -1px -1px 12px #9d9d9d;
+    box-shadow: 7px 7px 16px #cbcbcb, -1px -1px 12px #cbcbcb;
     border-radius: 2px;
 }
 
