@@ -214,7 +214,7 @@ main {
         width: 18px;
         height: 18px;
         animation-name: rainAnim;
-        animation-duration: 2s;
+        animation-duration: 4s;
         animation-delay: var(--rain-delay);
         animation-iteration-count: infinite;
         animation-timing-function: linear;
