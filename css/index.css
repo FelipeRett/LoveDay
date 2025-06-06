@@ -252,8 +252,8 @@ main {
 }
 
 .polaroide {
-    width: 270px;
-    height: 370px;
+    width: 250px;
+    height: 350px;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -274,8 +274,8 @@ main {
 
 .carrosel {
     overflow: hidden;
-    width: 270px;
-    height: 300px;  
+    width: 250px;
+    height: 280px;  
     display: inline-flex;
     box-shadow: 7px 7px 16px #cbcbcb, -1px -1px 12px #cbcbcb;
     border-radius: 2px;
@@ -288,8 +288,8 @@ main {
     
     img {
         object-fit: cover;
-        width:270px;
-        height:300px;
+        width:250px;
+        height:280px;
     }
 }
 
