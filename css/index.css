@@ -295,7 +295,7 @@ main {
 .card_info {
     justify-items: center;
     text-align: center;
-    margin: 0 0 0 0;
+    margin: 0 10px 0 10px;
 
     h1 {
         font-size: 23px;
